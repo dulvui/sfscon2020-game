@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SFSCon.png-16c6bc5bea73687310a50df435ff9de3.stex"
+path="res://.import/SFSCon.png-836a175898218ee5dcbfbd47711753c1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://html-export/SFSCon.png"
-dest_files=[ "res://.import/SFSCon.png-16c6bc5bea73687310a50df435ff9de3.stex" ]
+source_file="res://docs/SFSCon.png"
+dest_files=[ "res://.import/SFSCon.png-836a175898218ee5dcbfbd47711753c1.stex" ]
 
 [params]
 
